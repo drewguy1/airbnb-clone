@@ -1,0 +1,15 @@
+.home__section {
+    display: flex;
+    padding: 30px;
+}
+
+
+
+
+@media (max-width: 460px){
+
+    .home__section{
+        flex-wrap: wrap;
+    }
+
+}
